@@ -14,8 +14,11 @@ https://github.com/jcoleman/tomcat-redis-session-manager
 <Manager className="com.radiadesign.catalina.session.RedisSessionManager"
          host="192.168.159.131"
          port="16300"
+         password=""
          database="0"
          maxInactiveInterval="60"/>
+
+
 
 第二步,将依赖的jar包和该项目打包好的jar包,共四个文件复制到tomcat根目录下的lib文件夹下
 具体需要的jar包
