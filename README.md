@@ -1,6 +1,15 @@
 # tomcat8-redis-session
+
+update 2020-04-23 22:22:32
+
+时间过去很久了，当年是个小菜鸟。如今变成老菜鸟。
+
+如今世面上有很多成熟的解决方案了。 比如spring-session-data-redis
+
+-------------------------------------------------------------------------------------
 tomcat8 session 共享
 参考教程 http://www.cnblogs.com/interdrp/p/4056525.html
+
 https://github.com/jcoleman/tomcat-redis-session-manager
 感谢原作者
 原文中 不支持tomcat8
